@@ -1,4 +1,4 @@
-# auction-contract
+# auction-project
 
 ## To Do List
 
